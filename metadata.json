@@ -1,0 +1,11 @@
+{
+  "name": "VeloDrive P2P Car Marketplace",
+  "description": "Cross-platform peer-to-peer car rental marketplace for iOS and Android connecting verified owners and renters with KYC verification, instant booking, and dual-mode mobile interface.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
